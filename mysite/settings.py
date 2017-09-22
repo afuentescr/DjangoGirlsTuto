@@ -25,7 +25,7 @@ SECRET_KEY = '3s-*msp6%*wq1tngopj#xokt!v45-km!6mf5$8uhpl4oq#fj03'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['afuentescr.pythonanywhere.com','localhost']
 
 
 # Application definition
